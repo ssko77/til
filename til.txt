@@ -1,0 +1,5 @@
+Push pull
+
+Re repo   Local Repo
+
+Commit ( add staging )

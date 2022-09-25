@@ -1,0 +1,3 @@
+Remote Repo pull
+Local repo commit
+Local repo push to Remo repo
