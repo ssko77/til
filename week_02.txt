@@ -1,0 +1,9 @@
+week_02 : 
+1. Issue :
+2. Branch push                      원격        로컬 
+    Feature/workA                  origin      main
+           /workB
+    main
+
+3. 만약 동일한 파일을 수정하면 
+        Merge 시 conflict 가 발생한다
